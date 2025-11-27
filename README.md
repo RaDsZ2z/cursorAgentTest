@@ -1,23 +1,20 @@
-## Cursor Agent Test
+## Cursor Agent 测试
 
-A tiny sandbox repository for experimenting with Cursor’s coding agents and
-automations. Use it to verify how agents manipulate files, run commands, and
-summarize their work.
+一个用于试验 Cursor 编码智能体与自动化流程的迷你沙盒仓库。你可以借此验证智能体如何修改文件、运行命令以及总结它们的工作。
 
-### What You Can Try
-- Edit files (like this README) and confirm agent diffs
-- Practice running `git status`, `npm test`, or other workflows safely
-- Rehearse explaining changes, writing summaries, or drafting PR notes
+### 你可以尝试
+- 编辑文件（例如此 README）并查看智能体生成的 diff
+- 安全地练习执行 `git status`、`npm test` 等常用流程
+- 演练如何解释改动、撰写总结或草拟 PR 说明
 
-### Getting Started
-1. Clone the repo: `git clone <this-repo-url>`
-2. Open it in Cursor (or your editor of choice)
-3. Make edits and let the agent describe or review them
+### 开始上手
+1. 克隆仓库：`git clone <this-repo-url>`
+2. 在 Cursor（或任意偏好的编辑器）中打开
+3. 进行修改，并让智能体对其进行描述或审查
 
-### Notes
-- There is intentionally almost no code—add your own files as needed
-- Resetting the repo is as easy as deleting and recloning it
+### 注意事项
+- 仓库中几乎没有代码，你可以按需添加自己的文件
+- 重置仓库只需删除后重新克隆
 
-### Contributing
-Feel free to extend the playground with sample scripts, test data, or docs that
-help you rehearse day-to-day tasks.
+### 贡献方式
+欢迎扩展该练习场，添加示例脚本、测试数据或文档，帮助你排练日常任务。
